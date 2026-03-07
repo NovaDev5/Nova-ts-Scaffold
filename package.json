@@ -1,0 +1,8 @@
+{
+  "name": "nova-ts-scaffold",
+  "version": "1.0.0",
+  "bin": {
+    "nova-ts": "./bin/index.js"
+  },
+  "type": "module"
+}
