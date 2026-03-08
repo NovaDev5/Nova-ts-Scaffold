@@ -1,8 +1,22 @@
 {
   "name": "nova-ts-scaffold",
   "version": "1.1.1",
+  "description": "A TypeScript backend scaffold generator",
+  "type": "module",
   "bin": {
-    "nova-ts": "./bin/index.js"
+    "nova-ts-scaffold": "./bin/index.js"
   },
-  "type": "module"
+  "files": [
+    "bin",
+    "template"
+  ],
+  "keywords": [
+    "typescript",
+    "express",
+    "scaffold",
+    "backend",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
 }
