@@ -18,9 +18,9 @@ Perfect for **Web3 developers** who deal with backend infastructures quite often
 Create a new project instantly:
 
 ```bash
-npx create-nova-ts my-backend
+npx nova-ts-scaffold my-backend
 ```
-
+The my-backend text should be replaced with the name of your backend project
 Then install dependencies and start the server:
 
 ```bash
