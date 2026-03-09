@@ -1,3 +1,5 @@
+import { Request, Response } from "express";  
+
 export class ServerController {
 
   static async servercheck(req: Request, res: Response) {
