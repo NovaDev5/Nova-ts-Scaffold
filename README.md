@@ -26,6 +26,8 @@ Then install dependencies and start the server:
 ```bash
 cd my-backend
 npm install
+npm i --save-dev @types/express
+npm i --save-dev @types/cors
 npm run dev
 ```
 
