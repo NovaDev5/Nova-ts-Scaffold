@@ -1,1 +1,1 @@
-// You can put in config code here
+// You can put in config code here like interfaces and value types
